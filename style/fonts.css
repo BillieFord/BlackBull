@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'mukta-regular';
+    src: url(../fonts/Mukta-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'mukta-bold';
+    src: url(../fonts/Mukta-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'mukta-medium';
+    src: url(../fonts/Mukta-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'mukta-semibold';
+    src: url(../fonts/Mukta-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'mukta-extrabold';
+    src: url(../fonts/Mukta-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: 'roboto-medium';
+    src: url(../fonts/Roboto-Medium.ttf);
+}
